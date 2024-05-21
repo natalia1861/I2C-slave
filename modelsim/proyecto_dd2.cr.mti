@@ -1,0 +1,181 @@
+C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/interfaz_salve_SPI.vhd {1 {vcom -work work -2002 -explicit C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/interfaz_salve_SPI.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 15:21:51 on May 19,2023
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/interfaz_salve_SPI.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity interfaz_slave_SPI
+-- Compiling architecture struct of interfaz_slave_SPI
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading entity control_slave
+-- Loading entity reg_in
+-- Loading entity reg_out
+End time: 15:21:52 on May 19,2023, Elapsed time: 0:00:01
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/master_spi_3_4_hilos.vhd {1 {vcom -work work -2002 -explicit C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/master_spi_3_4_hilos.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 15:21:51 on May 19,2023
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/master_spi_3_4_hilos.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity master_spi_3_4_hilos
+-- Compiling architecture rtl of master_spi_3_4_hilos
+End time: 15:21:51 on May 19,2023, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/modelsim/pack_test_spi.vhd {1 {vcom -work work -2002 -explicit C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/modelsim/pack_test_spi.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 15:21:51 on May 19,2023
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/modelsim/pack_test_spi.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling package pack_test_spi
+-- Compiling package body pack_test_spi
+-- Loading package pack_test_spi
+End time: 15:21:51 on May 19,2023, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/reg_in.vhd {1 {vcom -work work -2002 -explicit C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/reg_in.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 15:21:51 on May 19,2023
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/reg_in.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity reg_in
+-- Compiling architecture rtl of reg_in
+End time: 15:21:51 on May 19,2023, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/reg_out.vhd {1 {vcom -work work -2002 -explicit C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/reg_out.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 15:21:51 on May 19,2023
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/reg_out.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity reg_out
+-- Compiling architecture rtl of reg_out
+End time: 15:21:51 on May 19,2023, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/app_module.vhd {1 {vcom -work work -2002 -explicit C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/app_module.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 15:21:51 on May 19,2023
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/app_module.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity app_module
+-- Compiling architecture rtl of app_module
+End time: 15:21:51 on May 19,2023, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/ctrl_tec.vhd {1 {vcom -work work -2002 -explicit C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/ctrl_tec.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 15:21:51 on May 19,2023
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/ctrl_tec.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity ctrl_tec
+-- Compiling architecture rtl of ctrl_tec
+End time: 15:21:51 on May 19,2023, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/timer.vhd {1 {vcom -work work -2002 -explicit C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/timer.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 15:21:51 on May 19,2023
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/timer.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity timer
+-- Compiling architecture rtl of timer
+End time: 15:21:51 on May 19,2023, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/control_slave.vhd {1 {vcom -work work -2002 -explicit C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/control_slave.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 15:21:51 on May 19,2023
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/control_slave.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity control_slave
+-- Compiling architecture rtl of control_slave
+End time: 15:21:51 on May 19,2023, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/presentacion.vhd {1 {vcom -work work -2002 -explicit C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/presentacion.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 15:21:51 on May 19,2023
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/presentacion.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity presentacion
+-- Compiling architecture rtl of presentacion
+End time: 15:21:51 on May 19,2023, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/modelsim/test_top.vhd {1 {vcom -work work -2002 -explicit C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/modelsim/test_top.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 15:21:52 on May 19,2023
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/modelsim/test_top.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package util
+-- Loading package pack_test_spi
+-- Compiling entity test_top
+-- Compiling architecture test of test_top
+-- Loading entity top_sim
+End time: 15:21:52 on May 19,2023, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/modelsim/top_sim.vhd {1 {vcom -work work -2002 -explicit C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/modelsim/top_sim.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 15:21:51 on May 19,2023
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/modelsim/top_sim.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity top_sim
+-- Compiling architecture struct of top_sim
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading entity timer
+-- Loading entity master_spi_3_4_hilos
+-- Loading entity interfaz_slave_SPI
+-- Loading entity presentacion
+-- Loading entity app_module
+End time: 15:21:51 on May 19,2023, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}}

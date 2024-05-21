@@ -1,0 +1,536 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/luisg/Desktop/DD2/BT2/Entregables/modelsim
+Eapp_module
+Z0 w1684336256
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/modelsim
+Z6 8C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/app_module.vhd
+Z7 FC:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/app_module.vhd
+l0
+L5
+VKVb4z@9[hm9>mn9RIl=LD1
+!s100 me6`_dbPV<KH?=Vo>Y_bJ0
+Z8 OV;C;10.4d;61
+32
+Z9 !s110 1684502511
+!i10b 1
+Z10 !s108 1684502511.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/app_module.vhd|
+Z12 !s107 C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/app_module.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1
+Artl
+R1
+R2
+R3
+R4
+Z15 DEx4 work 10 app_module 0 22 KVb4z@9[hm9>mn9RIl=LD1
+l71
+L44
+VzMSn5`;Pi5gi<R]YOSTeT0
+!s100 n>^>LHH2N3hDlMIo[2KL62
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Econtrol_slave
+Z16 w1684502500
+R1
+R2
+R3
+R4
+R5
+Z17 8C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/control_slave.vhd
+Z18 FC:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/control_slave.vhd
+l0
+L8
+V6HRRj^4RkncUHH0cFaPL91
+!s100 KUTE4UnRR8Z_jcH@beemF1
+R8
+32
+R9
+!i10b 1
+R10
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/control_slave.vhd|
+Z20 !s107 C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/control_slave.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+Z21 DEx4 work 13 control_slave 0 22 6HRRj^4RkncUHH0cFaPL91
+l77
+L43
+VEm_lNi:21mG<d9g:U^Tg_0
+!s100 ATBNT2MXOK?PBFSX:obS62
+R8
+32
+R9
+!i10b 1
+R10
+R19
+R20
+!i113 1
+R13
+R14
+Ectrl_tec
+Z22 w1684221258
+R1
+R2
+R3
+R4
+R5
+Z23 8C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/ctrl_tec.vhd
+Z24 FC:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/ctrl_tec.vhd
+l0
+L7
+Vnf0;T]JT9dU^;E1@LhcJl1
+!s100 V8WGL;^ngL^g=BG@8jcI71
+R8
+32
+R9
+!i10b 1
+R10
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/ctrl_tec.vhd|
+Z26 !s107 C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/ctrl_tec.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+DEx4 work 8 ctrl_tec 0 22 nf0;T]JT9dU^;E1@LhcJl1
+l40
+L21
+Vkh<o6B8hTPAPa=5HDa7hH3
+!s100 ;OWVQDBmK_@H@?KPBgG5f1
+R8
+32
+R9
+!i10b 1
+R10
+R25
+R26
+!i113 1
+R13
+R14
+Einterfaz_slave_spi
+Z27 w1684495427
+R3
+R4
+R5
+Z28 8C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/interfaz_salve_SPI.vhd
+Z29 FC:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/interfaz_salve_SPI.vhd
+l0
+L6
+VFLA<[NbOEz<:^j4N=@dh;1
+!s100 _kbT9_oVna9Fi[jnmkIF:2
+R8
+32
+Z30 !s110 1684502512
+!i10b 1
+R10
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/interfaz_salve_SPI.vhd|
+Z32 !s107 C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/interfaz_salve_SPI.vhd|
+!i113 1
+R13
+R14
+Astruct
+Z33 DEx4 work 7 reg_out 0 22 9ZQ<`2g4GJC9]^k2ozTa21
+Z34 DEx4 work 6 reg_in 0 22 ;RDJ?a?Uie_Pc006zH]E:3
+R1
+R2
+R21
+R3
+R4
+Z35 DEx4 work 18 interfaz_slave_spi 0 22 FLA<[NbOEz<:^j4N=@dh;1
+l45
+L18
+VzMFe53U9o7OnDm]BY0TAP2
+!s100 JdaeXY3O49NL2@M4eB3B40
+R8
+32
+R30
+!i10b 1
+R10
+R31
+R32
+!i113 1
+R13
+R14
+Emaster_spi_3_4_hilos
+Z36 w1683794463
+R1
+R2
+R3
+R4
+R5
+Z37 8C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/master_spi_3_4_hilos.vhd
+Z38 FC:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/master_spi_3_4_hilos.vhd
+l0
+L5
+VNSA;Xfmb3V9<EhJ3`]e`=2
+!s100 ZXA2@SSLLWm2?lzUhG[zm3
+R8
+32
+R9
+!i10b 1
+R10
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/master_spi_3_4_hilos.vhd|
+Z40 !s107 C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/master_spi_3_4_hilos.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+Z41 DEx4 work 20 master_spi_3_4_hilos 0 22 NSA;Xfmb3V9<EhJ3`]e`=2
+l55
+L29
+VDkTL3FU;TH;j<k3DnkoX;3
+!s100 `lgK>jfedHdkGEZ2Wgn^i1
+R8
+32
+R9
+!i10b 1
+R10
+R39
+R40
+!i113 1
+R13
+R14
+Ppack_test_spi
+R1
+R2
+R3
+R4
+R36
+R5
+Z42 8C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/modelsim/pack_test_spi.vhd
+Z43 FC:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/modelsim/pack_test_spi.vhd
+l0
+L5
+Vo<?U2[z5iP>B=I42YQYd]1
+!s100 [;@n6V`0;HXBZXDXFj2oG0
+R8
+32
+b1
+R9
+!i10b 1
+R10
+Z44 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/modelsim/pack_test_spi.vhd|
+Z45 !s107 C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/modelsim/pack_test_spi.vhd|
+!i113 1
+R13
+R14
+Bbody
+Z46 DPx4 work 13 pack_test_spi 0 22 o<?U2[z5iP>B=I42YQYd]1
+R1
+R2
+R3
+R4
+l0
+L38
+VRFEgholN=[j_dnjTaF[ZF0
+!s100 d^3E1IHXm;O13:fl0:RV22
+R8
+32
+R9
+!i10b 1
+R10
+R44
+R45
+!i113 1
+R13
+R14
+Epresentacion
+Z47 w1684334434
+R1
+R2
+R3
+R4
+R5
+Z48 8C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/presentacion.vhd
+Z49 FC:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/presentacion.vhd
+l0
+L5
+VDYKUYDa<o7U;_2aNQTQJg1
+!s100 V:nTdWGQ0g;VojdddIgN11
+R8
+32
+R9
+!i10b 1
+R10
+Z50 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/presentacion.vhd|
+Z51 !s107 C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/presentacion.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+Z52 DEx4 work 12 presentacion 0 22 DYKUYDa<o7U;_2aNQTQJg1
+l25
+L18
+VA701kW0I_oYIN3g21V@1j2
+!s100 iNN:7>FaaeXLnF=fL_WlC1
+R8
+32
+R9
+!i10b 1
+R10
+R50
+R51
+!i113 1
+R13
+R14
+Ereg_in
+Z53 w1684405805
+R1
+R2
+R3
+R4
+R5
+Z54 8C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/reg_in.vhd
+Z55 FC:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/reg_in.vhd
+l0
+L12
+V;RDJ?a?Uie_Pc006zH]E:3
+!s100 N_^37128dmLE1`O`eE]c53
+R8
+32
+R9
+!i10b 1
+R10
+Z56 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/reg_in.vhd|
+Z57 !s107 C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/reg_in.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+R34
+l44
+L39
+V>klii_eP0Eln;aoFRFbP32
+!s100 ]ZGDdP:RhEn_jB`zU`9Dm1
+R8
+32
+R9
+!i10b 1
+R10
+R56
+R57
+!i113 1
+R13
+R14
+Ereg_out
+Z58 w1684495400
+R1
+R2
+R3
+R4
+R5
+Z59 8C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/reg_out.vhd
+Z60 FC:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/reg_out.vhd
+l0
+L12
+V9ZQ<`2g4GJC9]^k2ozTa21
+!s100 ib[FfkBiXo`[3N982Ze`M1
+R8
+32
+R9
+!i10b 1
+R10
+Z61 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/reg_out.vhd|
+Z62 !s107 C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/reg_out.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+R33
+l36
+L33
+V6C?z?N0:S^SllAB@0NWZa2
+!s100 N=NDG[nlK;S:hCWBQSbcC1
+R8
+32
+R9
+!i10b 1
+R10
+R61
+R62
+!i113 1
+R13
+R14
+Etest_top
+Z63 w1684502498
+R46
+Z64 DPx12 modelsim_lib 4 util 0 22 I9VUm]?fD[2nYZzgoDM?l2
+R1
+R2
+R3
+R4
+R5
+Z65 8C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/modelsim/test_top.vhd
+Z66 FC:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/modelsim/test_top.vhd
+l0
+L11
+VN_mD[HZ6YeEdN7>YKZebL2
+!s100 e_L`>QF54aToAnNEe7=2<2
+R8
+32
+R30
+!i10b 1
+Z67 !s108 1684502512.000000
+Z68 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/modelsim/test_top.vhd|
+Z69 !s107 C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/modelsim/test_top.vhd|
+!i113 1
+R13
+R14
+Atest
+Z70 DEx4 work 7 top_sim 0 22 B@jb5LRlhgOV5]gKJUUzo0
+R46
+R64
+R1
+R2
+R3
+R4
+Z71 DEx4 work 8 test_top 0 22 N_mD[HZ6YeEdN7>YKZebL2
+l40
+L14
+VbF@;OJf;0B;3EHANIZ?A02
+!s100 3g5c2od?T885?`^SgJYlj2
+R8
+32
+R30
+!i10b 1
+R67
+R68
+R69
+!i113 1
+R13
+R14
+Etimer
+Z72 w1684333061
+R1
+R2
+R3
+R4
+R5
+Z73 8C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/timer.vhd
+Z74 FC:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/timer.vhd
+l0
+L23
+VnYQkH2A2k>>DGiH`z`<eQ0
+!s100 92SWzefbe58fmP1^Ple^A0
+R8
+32
+R9
+!i10b 1
+R10
+Z75 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/timer.vhd|
+Z76 !s107 C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/hdl/timer.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+Z77 DEx4 work 5 timer 0 22 nYQkH2A2k>>DGiH`z`<eQ0
+l45
+L35
+VcgU?`j`E3TLJe=LM:]:?42
+!s100 gRfN6BJG?<[Roh7N4ebTX0
+R8
+32
+R9
+!i10b 1
+R10
+R75
+R76
+!i113 1
+R13
+R14
+Etop_sim
+Z78 w1684337397
+R3
+R4
+R5
+Z79 8C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/modelsim/top_sim.vhd
+Z80 FC:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/modelsim/top_sim.vhd
+l0
+L7
+VB@jb5LRlhgOV5]gKJUUzo0
+!s100 ?^251iQU3ZO^=3XU73^_L3
+R8
+32
+R9
+!i10b 1
+R10
+Z81 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/modelsim/top_sim.vhd|
+Z82 !s107 C:/Users/luisg/Documents/ENTREGA_FINAL_DD2/PROY_DD2/modelsim/top_sim.vhd|
+!i113 1
+R13
+R14
+Astruct
+R15
+R52
+R35
+R41
+R1
+R2
+R77
+R3
+R4
+R70
+l75
+L44
+V5Oilo7WIm=1`LYWM35M9Y0
+!s100 ;^fi@li6d:O9XXdj@?E=l1
+R8
+32
+R9
+!i10b 1
+R10
+R81
+R82
+!i113 1
+R13
+R14
